@@ -6,6 +6,7 @@ st.write(
     """
     # Project Finalku
     Selamat datang di web visualisasi ini
+    Berikut merupakan dataset yang digunakan dalam proses analisis data
     """
 )
 
