@@ -11,7 +11,7 @@ st.write(
 
 df = pd.read_csv("day.csv", delimiter=",")
 
-st.dataframe(data=df, width=500, height=150)
+st.dataframe(data=df, width=800, height=350)
 
 # Menghitung total untuk setiap kategori hari
 total_weekday = sum(df['weekday'])
